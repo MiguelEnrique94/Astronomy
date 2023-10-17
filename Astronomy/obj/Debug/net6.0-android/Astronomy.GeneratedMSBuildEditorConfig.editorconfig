@@ -28,6 +28,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AboutPage.
 build_metadata.AdditionalFiles.TargetPath = Pages\AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AboutPage.xaml
 
+[D:/Miguel_Leonardo-2DS/PMI/Astronomy/Astronomy/Pages/AstronomicalBodiesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AstronomicalBodiesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AstronomicalBodiesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AstronomicalBodiesPage.xaml
+
+[D:/Miguel_Leonardo-2DS/PMI/Astronomy/Astronomy/Pages/AstronomicalBodyPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AstronomicalBodyPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AstronomicalBodyPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AstronomicalBodyPage.xaml
+
 [D:/Miguel_Leonardo-2DS/PMI/Astronomy/Astronomy/Pages/MoonPhasePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.MoonPhasePage.xaml
